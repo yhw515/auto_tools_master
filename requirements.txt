@@ -32,7 +32,7 @@ dataclasses==0.7
 defusedxml==0.7.1
 dill==0.3.3
 distlib==0.3.2
-Django==1.11.11
+Django==2.2.24
 django-redis==4.12.1
 djangorestframework==3.12.2
 dnspython==2.1.0
